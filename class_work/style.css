@@ -1,0 +1,35 @@
+
+.container{
+    margin: 5px;
+}
+.left{
+    margin: 5px;
+}
+.right{
+    margin: 5px;
+}
+
+h1{
+    color: blue;
+    margin: 15px;
+}
+#third span{
+    visibility: hidden;
+   
+}
+#fifth{
+    display: none;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+p{
+    color: red;
+    margin: 5px;
+}
+.ten{
+    margin: 20px;
+    color: darkblue;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: gainsboro;
+}
+h1{
+    color: lightseagreen;
+}
+/* Class selectors*/
+.first{
+    color: darkblue;
+}
+.second{
+    color: darkgreen;
+}
+/*Id selectors "id" more important than "Class and Element: "Class" more important than "Elements (Tag)"*/
+#main-p{
+    background-color: darkgray;
+}
+
+.town{
+    color: darkblue;
+}
+   
+a{
+    display: inline-block;
+    border: 2px solid red;
+    width: 300px;
+    
+}
